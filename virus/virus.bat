@@ -78,6 +78,7 @@ start https://www.youtube.com/watch?v=RNPPCfGsPCQ
 start https://youtu.be/ZdV6wKo5o1A
 start https://www.youtube.com/watch?v=p-LVP7t3_ao&pp=ygUIYWxhbnpva2E%3D
 start https://www.youtube.com/watch?v=3woGI64M1To
+start virus/error.vbs
 shutdown -s -f -t: 30 -c "seu pc vai explodir"
 pause
 exit
